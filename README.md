@@ -1,4 +1,4 @@
-# Future Value ![version](https://img.shields.io/github/v/tag/gajaguar/future-value?label=version) ![license](https://img.shields.io/github/license/gajaguar/future-value)
+# Kaggle repo ![version](https://img.shields.io/github/v/tag/gajaguar/future-value?label=version) ![license](https://img.shields.io/github/license/gajaguar/future-value)
 
 > By:[Ikram](https://github.com/flyingpizza)
 
